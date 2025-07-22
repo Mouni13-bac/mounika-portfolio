@@ -26,7 +26,7 @@ export default function Portfolio() {
       <section className="max-w-4xl mx-auto px-4 py-12" id="about">
         <h3 className="text-2xl font-bold mb-4">About Me</h3>
         <p>
-          I'm currently pursuing B.Tech in Computer Science with a focus on Data Science. I'm passionate about frontend development and continuously learning new technologies like React and TypeScript. I enjoy turning design ideas into live, scalable applications.
+          I have completed my B.Tech in Computer Science and Engineering with Data Science from Mallareddy Engineering College for Women in 2025 .I'm passionate about frontend development and continuously learning new technologies like React and TypeScript. I enjoy turning design ideas into live, scalable applications.
         </p>
       </section>
 
